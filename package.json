@@ -1,0 +1,11 @@
+{
+  "name": "gym-web",
+  "version": "1.0.0",
+  "description": "Gym website using html css sass dom",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant Kumar",
+  "license": "ISC"
+}
