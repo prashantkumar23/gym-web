@@ -11,9 +11,9 @@ Javascript (DOM)_**
 
 Noteworthy features
 
-1- Dark mode
-2- Cool Animations
-3- Mobile Responsive
-4- Simple step form
-5- Scroll to top button
-6- Understandable code structure and many more...
+1.  Dark Mode
+2.  Cool Animations
+3.  Mobile Responsive
+4.  Simple Step form
+5.  Scroll to top button
+6.  Understandable code structure and many more...
